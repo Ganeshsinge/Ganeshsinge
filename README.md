@@ -1,8 +1,6 @@
 Hi,I'm Ganesh Singe
 
-
 I'm Engineer Graduate
-
 I'm currently persuing Python-Fullstack course.
 
 
