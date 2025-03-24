@@ -1,4 +1,4 @@
-# 💫 About Me:Hi,I'm Ganesh Singe
+Hi,I'm Ganesh Singe
 I am Student
 
 
