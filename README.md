@@ -1,7 +1,9 @@
 Hi,I'm Ganesh Singe
 
 
-I am Student
+I'm Engineer Graduate
+
+I'm currently persuing Python-Fullstack course.
 
 
 ## 🌐 Socials:
